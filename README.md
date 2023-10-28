@@ -13,6 +13,6 @@
 + большая безопасность;
   <p align="center">
   <a href="https://www.fullstack.cafe">
-  <img src="https://user-images.githubusercontent.com/86995782/142670003-04a3bfd4-4dcf-421a-854f-dcdb3931bddb.gif">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   </a>
 </p>
