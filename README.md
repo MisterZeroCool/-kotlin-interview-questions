@@ -370,7 +370,7 @@ object ObjectWithStatic {
     }
 }
 ```
-      В этом случае метод staticFun будет действительно объявлен статическим:
+  В этом случае метод staticFun будет действительно объявлен статическим:
       
 ```kotlin
 public final class ObjectWithStatic {
