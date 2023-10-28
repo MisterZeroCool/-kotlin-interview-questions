@@ -361,7 +361,8 @@ val tom = object {
 <details>
     <summary>Ответ</summary>
     <p class="word"><i>С помощью аннотации @JvmStatic есть возможность объявить методы по настоящему статическими, ее можно добавить как к методам object, так и к методам companion object.
-      ```kotlin
+      
+```kotlin
 object ObjectWithStatic {
     @JvmStatic
     fun staticFun(): Int {
@@ -370,7 +371,8 @@ object ObjectWithStatic {
 }
 ```
       В этом случае метод staticFun будет действительно объявлен статическим:
-            ```kotlin
+      
+```kotlin
 public final class ObjectWithStatic {
    public static final ObjectWithStatic INSTANCE;
  
