@@ -16,3 +16,14 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   </a>
 </p>
+### Q1: Какие Преимущества языка Kotlin перед Java?
+Код на Kotlin компактнее на 30-40%
+Безопасная работа с обнуляемыми переменными (Null Safety)
+Функции-расширения (Extensions)
+Классы данных (data classes)
+Синглтоны на уровне языка (Object)
+Корутины 
+<details>
+    <summary>Покажи-скрой меня</summary>
+    <p>Скандинавская мифология — мифология древних скандинавов</p>
+</details>
