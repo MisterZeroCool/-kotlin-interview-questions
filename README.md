@@ -80,6 +80,7 @@ public class MyClass {
         return a + b;
     }
 }
+```
 
 Мы можем использовать этот метод в Kotlin, добавив аннотацию @JvmStatic:
 ```kotlin
@@ -88,5 +89,7 @@ object MyClass {
     fun sum(a: Int, b: Int): Int {
         return a + b
     }
-}</i></p>
+}
+```
+</i></p>
 </details>
