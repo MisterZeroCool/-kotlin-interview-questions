@@ -29,7 +29,7 @@
     <summary>Код на Kotlin компактнее на 30-40%</summary>
   <p class="word">Один&shy;надцатиклас&shy;сница Анжелика 
   после окончания школы выбрала профессию 
-  дело&shy;произ&shy;водитель&shy;ницы.fffffffffffffffffffffffffffffffffffffffffffffffffffffff&shyfffffffffffffffffffffffffffffffffffffffffff&shyfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</p>
+  дело&shy;произ&shy;водитель&shy;ницы.</p>
 </details>
 </body>
 
