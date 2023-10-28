@@ -1,5 +1,6 @@
 # -kotlin-interview-questions
 Вопросы и ответы по собеседованию на вакансию Junior Android Developer.
+
 Плюсы Kotlin по сравнению с Java:
 + официальный язык для Android;
 + кросс-платформенность: можно писать backend-, Android-, iOS- и веб-приложения, создавать IoT-решения;
