@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   </a>
 </p>
+
 ### Q1: Какие Преимущества языка Kotlin перед Java?
 Код на Kotlin компактнее на 30-40%
 Безопасная работа с обнуляемыми переменными (Null Safety)
@@ -23,12 +24,16 @@
 Классы данных (data classes)
 Синглтоны на уровне языка (Object)
 Корутины 
+
 <details>
     <summary>### Q1: Какие Преимущества языка Kotlin перед Java?</summary>
     <p>Скандинавская мифология — мифология древних скандинавов</p>
 </details>
 
-### Q1: How to initialize an array in Kotlin with values? ⭐⭐
+</details>
+
+<summary> ### Q1: How to initialize an array in Kotlin with values? ⭐⭐ </summary>
+<p>
 
 **Questions Details:**
 
@@ -48,7 +53,7 @@ val numbers: IntArray = intArrayOf(10, 20, 30, 40, 50)
 ```
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/31366229/how-to-initialize-an-array-in-kotlin-with-values/31366276#31366276)
-
+</p>
 
 ### Q2: How to correctly concatenate a String in Kotlin? ⭐⭐
 
@@ -83,7 +88,7 @@ val c = "$a $b"
  ```
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/44188240/kotlin-how-to-correctly-concatenate-a-string)
-
+</details>
 
 ### Q3: What is basic difference between fold and reduce in Kotlin? When to use which? ⭐⭐
 
