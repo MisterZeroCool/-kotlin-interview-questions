@@ -416,7 +416,7 @@ val numbers: IntArray = intArrayOf(10, 20, 30, 40, 50)
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/31366229/how-to-initialize-an-array-in-kotlin-with-values/31366276#31366276)
 
-### Q2: How to correctly concatenate a String in Kotlin? ⭐⭐
+### Q15: How to correctly concatenate a String in Kotlin? ⭐⭐
 
 **Answer:**
 
