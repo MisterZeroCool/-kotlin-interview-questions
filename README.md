@@ -456,7 +456,7 @@ val c = "$a $b"
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/44188240/kotlin-how-to-correctly-concatenate-a-string)
 
-### Q3: What is basic difference between fold and reduce in Kotlin? When to use which? ⭐⭐
+### Q16: What is basic difference between fold and reduce in Kotlin? When to use which? ⭐⭐
 
 **Answer:**
 
