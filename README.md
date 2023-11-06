@@ -396,7 +396,7 @@ public final class ObjectWithStatic {
 </body>
 
 
-### Q1: How to initialize an array in Kotlin with values? ⭐⭐
+### Q14: How to initialize an array in Kotlin with values? ⭐⭐
 
 **Questions Details:**
 
