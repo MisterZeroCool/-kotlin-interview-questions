@@ -503,7 +503,7 @@ These functions produce a `Set` instead of a `List` and should be a little bit m
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/40430297/kotlin-idiomatic-way-to-remove-duplicate-strings-from-array)
 
-### Q5: What is the difference between var and val in Kotlin? ⭐⭐
+### Q17: What is the difference between var and val in Kotlin? ⭐⭐
 
 **Answer:**
 
@@ -526,7 +526,7 @@ These functions produce a `Set` instead of a `List` and should be a little bit m
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin)
 
-### Q6: Where should I use var and where val? ⭐⭐
+### Q18: Where should I use var and where val? ⭐⭐
 
 **Answer:**
 
