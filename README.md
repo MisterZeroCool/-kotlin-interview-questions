@@ -480,7 +480,7 @@ val c = "$a $b"
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/44429419/what-is-basic-difference-between-fold-and-reduce-in-kotlin-when-to-use-which)
 
-### Q4: What is the idiomatic way to remove duplicate strings from array? ⭐⭐
+### Q17: What is the idiomatic way to remove duplicate strings from array? ⭐⭐
 
 **Questions Details:**
 
@@ -503,7 +503,7 @@ These functions produce a `Set` instead of a `List` and should be a little bit m
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/40430297/kotlin-idiomatic-way-to-remove-duplicate-strings-from-array)
 
-### Q17: What is the difference between var and val in Kotlin? ⭐⭐
+### Q18: What is the difference between var and val in Kotlin? ⭐⭐
 
 **Answer:**
 
@@ -526,7 +526,7 @@ These functions produce a `Set` instead of a `List` and should be a little bit m
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin)
 
-### Q18: Where should I use var and where val? ⭐⭐
+### Q19: Where should I use var and where val? ⭐⭐
 
 **Answer:**
 
@@ -544,7 +544,7 @@ val stringVariables : String = "Button's Constant or final Text"
 
 🔗 **Source:** [stackoverflow.com](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin)
 
-### Q7: What is a data class in Kotlin? ⭐⭐
+### Q20: What is a data class in Kotlin? ⭐⭐
 
 **Answer:**
 
@@ -562,7 +562,7 @@ To ensure consistency and meaningful behavior of the generated code, data classe
 
 🔗 **Source:** [kotlinlang.org](https://kotlinlang.org/docs/reference/data-classes.html)
 
-### Q8: What is a primary constructor in Kotlin? ⭐⭐
+### Q21: What is a primary constructor in Kotlin? ⭐⭐
 
 **Answer:**
 
@@ -578,7 +578,7 @@ The main idea is by removing the constructor keyword, our code gets simplified a
 
 🔗 **Source:** [www.programiz.com](https://www.programiz.com/kotlin-programming/constructors)
 
-### Q9: How to create singleton in Kotlin? ⭐⭐
+### Q22: How to create singleton in Kotlin? ⭐⭐
 
 **Answer:**
 
