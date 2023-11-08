@@ -609,7 +609,7 @@ This is the preferred way to implement singletons on a JVM because it enables th
 
 🔗 **Source:** [medium.com](https://medium.com/@BladeCoder/kotlin-singletons-with-argument-194ef06edd9e)
 
-### Q10: What will be result of the following code execution? ⭐⭐⭐
+### Q23: What will be result of the following code execution? ⭐⭐⭐
 
 **Questions Details:**
 
@@ -628,7 +628,7 @@ fun main(args: Array<String>) {
 
  See 👉 **[Answer](https://www.fullstack.cafe/Kotlin)**
 
-### Q11: Explain lazy initialization in Kotlin ⭐⭐⭐
+### Q24: Explain lazy initialization in Kotlin ⭐⭐⭐
 
  See 👉 **[Answer](https://www.fullstack.cafe/Kotlin)**
 
